@@ -1,0 +1,1 @@
+By using this code we can control a car which has 4 DC motors and 2 Motordriver also one Buk controler.Also we can control Robotic Arm which has 6 Servo motor.also  we can control a Display ,a Ultrasonic sensor.
